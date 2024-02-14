@@ -2,7 +2,7 @@ title: "Recomendaciones de activos y sobrediagnostico en salud"
 author: "Mijhael Andrei"
 description: "Doctorado Ciencias de la Salud, Universidad de Alicante"
 permalink: /:title/
-lang: "esp"
+lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -16,7 +16,7 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html" title:"Home Change", Icon: Home"}
+  - {file: "index.html" title:"Home Change", icon: Home"}
   - {file: "README.md" title: "Sobre mi", icon: Direccion"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
